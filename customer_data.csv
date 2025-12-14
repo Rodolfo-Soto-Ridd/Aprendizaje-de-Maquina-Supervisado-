@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,Income,City
+1,Male,25,50000,New York
+2,Female,30,60000,Los Angeles
+3,Male,35,70000,Chicago
+4,Female,40,80000,New York
+5,Male,22,45000,Los Angeles
+6,Female,28,55000,Chicago
+7,Male,33,65000,New York
+8,Female,45,85000,Los Angeles
+9,Male,50,90000,Chicago
+10,Female,27,58000,New York
